@@ -17,7 +17,7 @@ html {
 }
 
 .cards li {
-  display:inline-block;
+  display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
   padding: 1em;
@@ -48,7 +48,7 @@ html {
   font-style: italic;
 }
 
-.cards dd{
+.cards dd {
   display: inline-block;
   margin: 0;
   min-width: 9em;
@@ -58,7 +58,7 @@ html {
   text-align: center;
 }
 
-.cards a{
+.cards a {
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
